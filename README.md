@@ -1,9 +1,13 @@
 ## Bem vindo<p>
-Misturei duas das minhas maiores paixões: jogos de cartas e séries. Criei um jogo da memória com HTML, CSS e JavaScript, utilizando as temáticas de uma das minhas séries favoritas. Com ele, você pode escolher um nome de usuário e o nível de dificuldade da partida. Se o tempo se esgotar, é game over. As cartas são viradas, e a partida é encerrada.
+Um dos meus maiores hobbies é jogar jogos de tabuleiro, e um, em específico, seria The Resistance, um jogo de personagens ocultos, espiões, mentiras e muita, mas muita discussão (do bem, rsrsrs).
+Nesse jogo, há 5 missões, e cada missão precisa de um líder. Com isso, pensei que seria melhor já pré-selecionar os líderes para economizar tempo. Mas, pensando bem, que graça teria usar um dado físico para isso? Então, resolvi inventar um pouquinho.
+Criei um sistema onde você insere os nomes dos jogadores, e ele seleciona 5 pessoas aleatoriamente para serem os líderes.
+
+Se você se interessou pelo jogo [The Resistance](https://www.amazon.com.br/Gal%C3%A1pagos-Jogos-RES001-The-Resistance/dp/B07CK3V7CN/ref=sr_1_5?adgrpid=127126144446&dib=eyJ2IjoiMSJ9.6s0NHpSPIb9JcZ6cAcyvSOnpWgHzFzR7F31uhPwWpce9ARrMYSkTcQIKbA9fkkq1Yvj9Qcr6ldfzpR2r-lgM0zixs2pXW5uoqr0lu_T6paV36obVUPvRznKcPpU808mJ9oC8c3i9fRekLI8_N94srPH22xc_3DUJDx43xaXVnMTkwRqiSGEX2kWmGrP5XOGwDgKU16UXmUfC1XTQkHkNhtk9VZBdxGf74HyLETZou46OLE2yow7Q5rSBY_jiIJVacTV5-wCvClCGjczHlj7yVjYm6sduzqUbQA2LibdwQ30.pHPT2oP5q-iKnaaNPIUYdOxfyCxbd92UgU6KHO1ADck&dib_tag=se&hvadid=593252180060&hvdev=c&hvlocphy=9101962&hvnetw=g&hvqmt=e&hvrand=17371497727258470191&hvtargid=kwd-443495458066&hydadcr=17150_13443094&keywords=the+resistance+jogo&qid=1730409063&sr=8-5&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9).
 
 <div align="center">
 
-![Captura de tela - Mario Game](https://github.com/MatheusADamasceno/Jogo-da-Memoria/blob/main/Jogo%20da%20memoria/memoria.PNG?raw=true)
+![Captura de tela](https://github.com/MatheusADamasceno/The-Resistance/blob/main/resistencia/Captura%20de%20tela%202024-10-31%20164046.png?raw=true)
 </div>
 
 <div alinhar="centro">
@@ -16,7 +20,7 @@ Misturei duas das minhas maiores paixões: jogos de cartas e séries. Criei um j
 ## Visualizar o Projeto
 Você pode visualizar o projeto clicando no link abaixo:
 
-[Link]( https://memoriacard.netlify.app )
+[Link]( https://aresistencia.netlify.app/ )
 
 
 ---
