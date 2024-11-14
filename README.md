@@ -7,7 +7,7 @@ Se você se interessou pelo jogo [The Resistance](https://www.amazon.com.br/Gal%
 
 <div align="center">
 
-![Captura de tela](https://github.com/MatheusADamasceno/The-Resistance/blob/main/resistencia/Captura%20de%20tela%202024-10-31%20164046.png?raw=true)
+![Captura de tela](https://github.com/MatheusADamasceno/The-Resistance/blob/main/resi.png?raw=true)
 </div>
 
 <div alinhar="centro">
