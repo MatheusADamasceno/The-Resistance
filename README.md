@@ -20,7 +20,8 @@ Se você se interessou pelo jogo [The Resistance](https://www.amazon.com.br/Gal%
 ## Visualizar o Projeto
 Você pode visualizar o projeto clicando no link abaixo:
 
-[Link]( https://aresistencia.netlify.app/ )
+[Link]( https://theresistance.netlify.app/ )
+
 
 
 ---
